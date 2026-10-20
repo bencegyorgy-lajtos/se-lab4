@@ -1,0 +1,3 @@
+# Fail primary store, don't try secoundary
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # should have fired from the primary store

@@ -1,0 +1,6 @@
+# try both but secoundary is empty
+GT4500,1,0,0,0
+TORPEDO,ALL  # should have fired from the primary store
+#
+# try to fire if both empty
+TORPEDO,ALL
